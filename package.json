@@ -1,6 +1,6 @@
 {
   "name": "host-endianness",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Get host machine (native) endianness (byte order).",
   "keywords": [
     "binary",
