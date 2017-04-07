@@ -4,5 +4,5 @@ but portable.
 
 ```javascript
 const hostEndianness = require('host-endianness');
-console.log(hostEndianness); // 'LE' or 'BE', depending on host hardware
+console.log(hostEndianness); // 'LE' or 'BE'
 ```
