@@ -1,0 +1,15 @@
+{
+  "name": "host-endianness",
+  "version": "0.1.0",
+  "description": "Get host machine (native) endianness (byte order).",
+  "keywords": [
+    "binary",
+    "endianess",
+    "byte order",
+    "host",
+    "native"
+  ],
+  "author": "Yuri Kilochek <yuri.kilochek@gmail.com>",
+  "license": "ISC",
+  "main": "index.js"
+}
