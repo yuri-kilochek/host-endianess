@@ -3,6 +3,6 @@ Get host machine (native) endianness (byte order), like Node's
 but portable.
 
 ```javascript
-    const hostEndianness = require('host-endianness');
-    console.log(hostEndianness); // 'LE' or 'BE', depending on host hardware
+const hostEndianness = require('host-endianness');
+console.log(hostEndianness); // 'LE' or 'BE', depending on host hardware
 ```
